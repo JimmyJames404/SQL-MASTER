@@ -8,7 +8,7 @@ Whether you work in sales or marketing, you run your own company, or you want to
 
 In this course, you will:
 
-Learn the ins and outs of SQL syntax
+- Learn the ins and outs of SQL syntax
 
 Generate reports using sales and user data
 
