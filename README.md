@@ -1,6 +1,6 @@
 # SQL-MASTER
 
-This course was just completely redone and rebuilt from the ground up, with over 325 brand new videos recorded. The course now uses MySQL 8.x and covers new topics including: Window Functions, Views, and SQL modes.
+The course now uses MySQL 8.x and covers new topics including: Window Functions, Views, and SQL modes.
 
 If you want to learn how to gain insights from data but are too intimidated by databases to know where to start, then this course is for you. This course is a gentle but comprehensive introduction to MySQL, one of the most highly in-demand skills in the business sector today.  
 
